@@ -1,4 +1,4 @@
 Git is a version control system.
 Git is free software.
-Git is a 
+Git is a  add GUI.
 Git is free software.
